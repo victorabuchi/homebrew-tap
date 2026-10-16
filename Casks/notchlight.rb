@@ -5,7 +5,7 @@ cask "notchlight" do
   url "https://github.com/victorabuchi/notchlight/releases/download/v#{version}/Notchlight-#{version}.dmg"
   name "Notchlight"
   desc "Lock screen widgets and a Dynamic Island for the notch"
-  homepage "https://github.com/victorabuchi/notchlight"
+  homepage "https://notchlight.com"
 
   livecheck do
     url :url
