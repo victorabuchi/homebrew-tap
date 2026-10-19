@@ -1,6 +1,6 @@
 cask "notchlight" do
-  version "1.3"
-  sha256 "f710452adbb5c0829d80656966b4e145346a9bf1eb8895f1c744540d2bc52fec"
+  version "1.4"
+  sha256 "79c6da21e6b620d27c04be803f5caa9d9959237e0c8adcc38dba22f0af68cae2"
 
   url "https://github.com/victorabuchi/notchlight/releases/download/v#{version}/Notchlight-#{version}.dmg"
   name "Notchlight"
